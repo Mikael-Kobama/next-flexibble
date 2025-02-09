@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "next-flexibble",
+			"path": "."
+		},
+		{
+			"name": "public",
+			"path": "../../../../../../public"
+		}
+	],
+	"settings": {}
+}
